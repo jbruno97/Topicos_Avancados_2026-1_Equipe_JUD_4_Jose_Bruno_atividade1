@@ -207,7 +207,7 @@ README.md
 
 ## 11. Vídeo Demonstrativo
 
- (Inserir link aqui)
+ [(CURADORIA DE DATASETS E INFERÊNCIA BÁSICA COM LLMs)](https://youtu.be/rKkpRyJHH8c)
 
 ---
 
