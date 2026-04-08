@@ -113,7 +113,7 @@ Para as questões objetivas, foi realizada análise quantitativa baseada em:
 
 ---
 
-## ⚙️ 5. Pipeline de Implementação
+## 5. Pipeline de Implementação
 
 A implementação foi realizada em Python, utilizando:
 
@@ -184,7 +184,7 @@ Entretanto, ainda apresentam limitações quanto à precisão técnica e confiab
 
 ---
 
-## 📁 9. Estrutura do Repositório
+## 9. Estrutura do Repositório
 
 ```
 /notebooks
